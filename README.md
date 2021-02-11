@@ -4,7 +4,7 @@ Task:
 
 ![](images/task.jpg)
 
-
+------------------------------------------------------------------------------------------------------------------------------------
 List of functions for the restaurant ordering app (all inside the operations folder):
 
 
