@@ -1,5 +1,10 @@
 # Dataraction_Work
 
+Task:
+
+![](images/task)
+
+
 List of functions for the restaurant ordering app (all inside the operations folder):
 
 
